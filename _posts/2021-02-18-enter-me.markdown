@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Mixing it up"
+date:   2021-02-18 19:56:12 -0700
+categories: editorializing
+---
+
+This is a blog post. I'm not going to keep it, but it's some minimum content that will let me explore a few different themes.
+
+I've been using Jekyll for years, now, but I learn new things every day. (Or, most days that I write a new blog post).
+
+I've wanted to see how hard it is to start a podcast. I settled on the title `A Failure To Disagree` months ago. I read a paper titled `Conditions for Intutive Expertise: A Failure to Disagree`[^download] by Daniel Kahneman and Gary Klein. 
+
+[^download]: You can view the paper [here](https://pubmed.ncbi.nlm.nih.gov/19739881/), and you can download the PDF [here on usda.gov](https://www.fs.usda.gov/rmrs/sites/default/files/Kahneman2009_ConditionsforIntuitiveExpertise_AFailureToDisagree.pdf) or [here for a direct download from this very website](/data/Kahneman2009_ConditionsforIntuitiveExpertise_AFailureToDisagree.pdf)
+It's an interesting paper across several dimensions. 
+
