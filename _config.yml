@@ -32,9 +32,10 @@ twitter_username: josh_works
 github_username:  josh-works
 
 # Build settings
-# theme: just-the-docs
+theme: jekyll-podcaster
+
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
