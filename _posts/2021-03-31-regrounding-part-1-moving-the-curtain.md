@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(RE)GROUNDING - Part 1 - 'Moving the Curtain'"
+title:  "Podcast Episode 1: (RE)GROUNDING Part 1 - 'Moving the Curtain'"
 description: "Ethan Magnass' magnificent bible study series."
 date: 2021-03-31 06:00:00 -0700
 crosspost_to_medium: false
