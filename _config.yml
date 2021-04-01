@@ -5,6 +5,10 @@ paginate: 1
 baseurl: ""
 permalink: pretty
 
+# Josh's additions
+excerpt_separator:   <!--more-->
+
+
 # Gems
 plugins:
   - jekyll-gist
