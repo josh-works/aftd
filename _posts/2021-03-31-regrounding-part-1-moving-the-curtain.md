@@ -11,6 +11,8 @@ image: /images/ethan_profile_picture.jpg
 comments_id: 1
 ---
 
+{% include podcast-subscribe-banner.html %}
+
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/d2751001"></iframe>
 
 ## (RE)GROUNDING CLASS, Part 1: moving the curtain
