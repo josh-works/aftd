@@ -7,7 +7,12 @@ title: About
   Hey there! This entire website is a massive experiment. Feel free to keep clicking around, reading, listening, or if it feels like it's not your thing, no hard feelings!
 </p>
 
-There's [this paper](https://pubmed.ncbi.nlm.nih.gov/19739881/) I read a while back, titled:
+This website provides the informational/explanatory backing for the `A Failure to Disagree` podcast.
+
+{% include podcast-subscribe-banner.html %}
+
+
+The title comes from [a paper](https://pubmed.ncbi.nlm.nih.gov/19739881/) I read a while back. The paper is join-authored by Daniel Kahneman and Gary Klein, titled:
 
 **Conditions for Intuitive Expertise: A Failure to Disagree** 
 
