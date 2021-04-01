@@ -15,6 +15,8 @@ The title of this podcast and website comes from [this paper](https://pubmed.ncb
 
 ## Conditions for Intuitive Expertise: A Failure to Disagree 
 
+Daniel Kahneman wrote [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow). I was intrigued to read the paper simply for that fact alone. It's worth reading.
+
 _Get the paper on Scihub [here](https://sci-hub.st/10.1037/a0016755)_
 
 I've thought of this paper often. It was written by two "opposed" giants in the field of "intuition and expertise". The authors collaborated on the paper to explore where their views overlapped and differed. 
